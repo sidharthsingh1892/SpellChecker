@@ -9,3 +9,6 @@ A spell correct flask app with an endpoint /spellCorrect. It takes in single wor
 3) Traverse to the location where you have cloned this code
 4) Run the command python3 spell1.py
 5) Then hit the URL: http://127.0.0.1:5000/spellCorrect?word=Ramuuuuuuu
+
+Here the input word is Ramuuuuuuu 
+and the output come as {'ramus'}
