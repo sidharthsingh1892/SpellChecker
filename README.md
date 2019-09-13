@@ -12,3 +12,5 @@ A spell correct flask app with an endpoint /spellCorrect. It takes in single wor
 
 Here the input word is Ramuuuuuuu 
 and the output come as {'ramus'}
+
+You can change the input word and test how the api works for other combination of words
